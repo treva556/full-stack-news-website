@@ -5,6 +5,8 @@
 www.----------------.com
 
 ## Tools Used
+--next.js
+-- node.js
 
 
 ## Cloning to Your Local Environment
